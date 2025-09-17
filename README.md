@@ -6,7 +6,7 @@ Goal: Predict the successful landing of SpaceX Falcon 9’s First Stage using hi
 Reusing rocket boosters greatly reduces the cost of space flight.
 The objective of this project is to build a classification model that predicts whether the Falcon 9 first stage will land successfully, using launch and rocket performance parameters.
 
-📊 Dataset
+ Dataset
 Data collected from the SpaceX API + Web scraping (Wikipedia launch data).
 Key features:
 Launch site
